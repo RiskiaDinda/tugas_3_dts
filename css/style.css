@@ -1,0 +1,10 @@
+body{
+    margin: 3%;
+}
+
+.warna{
+    background: steelblue;
+    color: white;
+    box-sizing: border-box;
+    margin: 1px;
+}
